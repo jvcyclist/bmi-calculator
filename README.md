@@ -1,14 +1,14 @@
 # bmi-calculator
 BMI calculator (Java, Spring MVC, HTML, CSS)
 
-##Technologies
+## Technologies
 * Java
 * Spring Framework
 * Html
 * Css
 
-##Desccription
+## Desccription
 * Simple BMI Calculator
 
-##How to run
+## How to run
 * Clone this repo, and run it on your local server
